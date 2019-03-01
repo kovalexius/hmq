@@ -12,7 +12,7 @@ import (
 	"os/signal"
 	"runtime"
 
-	"github.com/fhmq/hmq/broker"
+	"./broker"
 )
 
 func main() {

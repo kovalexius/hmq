@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/eclipse/paho.mqtt.golang/packets"
-	"github.com/fhmq/hmq/lib/sessions"
-	"github.com/fhmq/hmq/lib/topics"
+	"../lib/sessions"
+	"../lib/topics"
 	"go.uber.org/zap"
 )
 

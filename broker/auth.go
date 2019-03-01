@@ -3,7 +3,7 @@
 package broker
 
 import (
-	"github.com/fhmq/hmq/lib/acl"
+	"../lib/acl"
 	"github.com/fsnotify/fsnotify"
 	"go.uber.org/zap"
 	"strings"

@@ -12,7 +12,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/fhmq/hmq/logger"
+	"../logger"
 	"go.uber.org/zap"
 )
 
